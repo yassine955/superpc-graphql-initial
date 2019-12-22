@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "yassine",
+    "MONGO_PWD": "s1120570",
+    "MONGO_DB": "superpc-graph-ql"
+  }
+}

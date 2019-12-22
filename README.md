@@ -1,2 +1,0 @@
-# superpc-graphql-initial
- 
